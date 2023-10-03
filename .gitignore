@@ -1,4 +1,7 @@
 /.idea/
 /.gradle/
 
-
+/chainofresp/build/
+/command/build/
+/iterator/build/
+/mediator/build/
