@@ -1,0 +1,6 @@
+rootProject.name = 'lec4example'
+include 'chainofresp'
+include 'command'
+include 'iterator'
+include 'mediator'
+
